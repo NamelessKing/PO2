@@ -1,4 +1,4 @@
-package exam.preparation.myjdk;
+package own.exam_preparation.myjdk;
 
 import it.unive.dais.po2.myjdk.MyLinkedList;
 

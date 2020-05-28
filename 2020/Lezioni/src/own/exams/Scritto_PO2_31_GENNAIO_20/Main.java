@@ -1,4 +1,4 @@
-package exam.exams.Scritto_PO2_31_GENNAIO_20;
+package own.exams.Scritto_PO2_31_GENNAIO_20;
 
 import org.jetbrains.annotations.NotNull;
 

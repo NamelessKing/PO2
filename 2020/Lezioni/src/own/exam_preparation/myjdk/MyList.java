@@ -1,4 +1,4 @@
-package exam.preparation.myjdk;
+package own.exam_preparation.myjdk;
 
 
 public interface MyList<E> extends MyCollection<E> {

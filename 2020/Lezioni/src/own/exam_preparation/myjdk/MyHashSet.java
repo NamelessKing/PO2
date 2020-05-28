@@ -1,4 +1,4 @@
-package exam.preparation.myjdk;
+package own.exam_preparation.myjdk;
 
 public class MyHashSet<T> implements MySet {
 
