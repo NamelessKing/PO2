@@ -1,4 +1,4 @@
-package own.exam_preparation.functional_programming.functional_interface;
+package own.exam_preparation.functional_programming.yt.amigocode.functional_interface;
 
 import java.util.function.Consumer;
 
