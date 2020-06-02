@@ -157,7 +157,8 @@ public class Main{
 //        List<Solid> solids = List.of(cube1, cube2, sphere1, sphere2);
 //        List<Cube> cubes = List.of(cube1, cube2);
 //        List<Sphere> spheres = List.of(sphere1, sphere2);
-//        List<? extends Polyhedron> polys = ,;
+//        List<? extends Polyhedron> polys = cubes;
+
 //
 //        // 5.a: questa invocazione è legale perché Cube implementa Comparable<Solid>
 //        Collections.sort(cubes);
@@ -194,6 +195,9 @@ public class Main{
 //        }
     }
 }
+
+
+
 
 
 

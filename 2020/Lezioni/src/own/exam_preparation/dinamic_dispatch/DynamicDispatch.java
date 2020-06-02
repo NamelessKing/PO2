@@ -1,4 +1,4 @@
-package own.exam_preparation.dunamic_dispatch;
+package own.exam_preparation.dinamic_dispatch;
 
 public class DynamicDispatch {
 

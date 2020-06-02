@@ -41,7 +41,7 @@ public class Es {
             final Point[] last = new Point[1];  // questo trucco serve a mettere il final sull'array e non sugli elementi, così da poter essere modificato da dentro la anonymous class
             assert it.hasNext();                // si assicura che non iteriamo su una lista vuota (in realtà ha almeno 3 elementi)
             last[0] = it.next();
-            return new Iterator<>() {
+            return new Iterator<Line>() {
                 @Override
                 public boolean hasNext() {
                     return it.hasNext();
