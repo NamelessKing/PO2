@@ -1,7 +1,5 @@
 package own.exams.Scritto_PO2_06_SETTEMBRE_19;
 
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Iterator;
 import java.util.List;
 
@@ -117,7 +115,7 @@ class Triangle extends Polygon {
     }
 
     @Override
-    public double area() { }
+    public double area() { return 0.;}
 }
 
 

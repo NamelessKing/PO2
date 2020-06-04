@@ -1,5 +1,8 @@
 package own.exam_preparation.threading;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Main {
     public static void main(String[] args) {
 
@@ -32,5 +35,34 @@ class MyThread extends Thread{
         }catch (InterruptedException e){
             e.printStackTrace();
         }
+    }
+}
+
+class ConsumerProducer{
+
+    public static class Consumer extends Thread{
+        @Override
+        public void run() {
+        }
+    }
+
+    public static class Producer extends Thread{
+        @Override
+        public void run() {
+        }
+    }
+
+    public static void main(String[] args) throws InterruptedException {
+
+        List<Integer> integers = new ArrayList<>();
+
+        Consumer c = new Consumer();
+        Producer p = new Producer();
+
+        c.start();
+        p.start();
+
+        c.join();
+        p.join();
     }
 }
