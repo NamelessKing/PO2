@@ -26,3 +26,5 @@ hs_err_pid*
 #**/.idea/*
 
 .idea
+out
+2020/2020.iml
