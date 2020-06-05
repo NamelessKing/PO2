@@ -1,11 +1,8 @@
 package own.exam_preparation.esercizi_esame;
 
-import it.unive.dais.po2.myjdk.Pair;
-
 import java.util.*;
 import java.util.function.Function;
 import java.util.function.Predicate;
-import java.util.function.Supplier;
 
 
 public class Esame2 {
@@ -173,9 +170,9 @@ class Sebastiano_18_15{
         }
     }
 
-    public static class Square extends Rectangle{}
-
-    public static class Circle implements Shape{}
+//    public static class Square extends Rectangle{}
+//
+//    public static class Circle implements Shape{}
 
 }
 

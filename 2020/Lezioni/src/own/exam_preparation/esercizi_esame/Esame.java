@@ -63,7 +63,6 @@ class Melania{
                 }
             };
         }
-
     }
 }
 
@@ -159,7 +158,7 @@ class Daniele_12_52{
                 public Integer next() {
                     if (sum == 0){
                         sum = prev + cur;
-                        return 0;
+                        return 1;
                     }
 
                     sum = prev + cur;
