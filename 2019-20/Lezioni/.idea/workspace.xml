@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b31aaf0-d5e7-48f6-9f08-402a05824796" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YwaCkiGvelTeHUd50OwBy9M1tt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="esercizi.camporese" />
+      <recent name="it.unive.dais.po2.patterns.factory" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="it.unive.dais.po2.myjdk" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MapIterator">
+    <configuration name="Andrei" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="esercizi.Andrei" />
+      <module name="Lezioni" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerProducer" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="it.unive.dais.po2.patterns.ConsumerProducer" />
+      <module name="Lezioni" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Es_SkipIterator" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="esercizi.Es_SkipIterator" />
+      <module name="Lezioni" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForEach" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="it.unive.dais.po2.other.ForEachTest" />
+      <module name="Lezioni" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IterableTree" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="esercizi.ScrittoGiugno2019" />
+      <module name="Lezioni" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IteratorTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="it.unive.dais.po2.other.IteratorTest" />
+      <module name="Lezioni" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapIterator" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="esercizi.MapIterator" />
+      <module name="Lezioni" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProvaIterator" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="esercizi.ProvaIterator" />
+      <module name="Lezioni" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomIter" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="esercizi.Es_RandomIterator" />
+      <module name="Lezioni" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RevTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="it.unive.dais.po2.other.RevTest" />
+      <module name="Lezioni" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="it.unive.dais.po2.other.SortingTest" />
+      <module name="Lezioni" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestList" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="it.unive.dais.po2.myjdk.TestList" />
+      <module name="Lezioni" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMap" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="it.unive.dais.po2.myjdk.TestMap" />
+      <module name="Lezioni" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Thread" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="it.unive.dais.po2.threading.ThreadCreationMain" />
+      <module name="Lezioni" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="it.unive.dais.po2.zoo.Main" />
+      <module name="Lezioni" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Andrei" />
+      <item itemvalue="Application.ConsumerProducer" />
+      <item itemvalue="Application.Es_SkipIterator" />
+      <item itemvalue="Application.ForEach" />
+      <item itemvalue="Application.IterableTree" />
+      <item itemvalue="Application.IteratorTest" />
+      <item itemvalue="Application.MapIterator" />
+      <item itemvalue="Application.ProvaIterator" />
+      <item itemvalue="Application.RandomIter" />
+      <item itemvalue="Application.RevTest" />
+      <item itemvalue="Application.SortingTest" />
+      <item itemvalue="Application.TestList" />
+      <item itemvalue="Application.TestMap" />
+      <item itemvalue="Application.Thread" />
+      <item itemvalue="Application.Zoo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Zoo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\spano\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b31aaf0-d5e7-48f6-9f08-402a05824796" name="Default" comment="" />
+      <created>1583492471839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583492471839</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="781" y="345" key="SettingsEditor" timestamp="1612961212733">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/2560.0.1920.1160@0.0.2560.1400" timestamp="1612961212733" />
+    <state x="984" y="592" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1612794482898">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="984" y="592" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.2560.1400/2560.0.1920.1160@0.0.2560.1400" timestamp="1612794482898" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/it/unive/dais/po2/other/ForEachTest.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/esercizi/EsercizioCache.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
