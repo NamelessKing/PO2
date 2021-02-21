@@ -1,7 +1,6 @@
 package it.unive.dais.po2.other;
 
 import it.unive.dais.po2.zoo.Dog;
-import org.jetbrains.annotations.NotNull;
 
 import java.util.*;
 
@@ -127,5 +126,5 @@ public class SortingTest {
 
     // firme "fake" delle sort
     static <T extends Comparable<? super T>> void sort__(List<T> list) {}
-    static <T>                               void sort__(List<T> list, Comparator<? super T> c) {}
+    static <T>  void sort__(List<T> list, Comparator<? super T> c) {}
 }
